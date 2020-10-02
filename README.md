@@ -1,2 +1,2 @@
 # resolutionproblemes
-Résolution de problèmes
+Petits exercices d'algorythmes
